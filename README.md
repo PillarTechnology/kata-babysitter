@@ -25,3 +25,8 @@ The job:
 
 Deliverable:
 - Calculate total pay, based on babysitter start and end time, and a family.
+
+
+-Use IDE Netbean 8.2 ;
+-Run src file.
+-Use SceneBulder and Javafx
